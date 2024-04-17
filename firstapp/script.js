@@ -1,2 +1,2 @@
-idade = 26
+idade = 24
 alert(idade)
